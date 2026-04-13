@@ -14,4 +14,4 @@ rem Leave empty to skip Google Sheets export (CSV-only mode).
 set AR_APPS_SCRIPT_URL=https://script.google.com/a/macros/yourdigitalagents.com/s/AKfycbzwRatwmtUt9kxF-9Xci0bQqHQoepylr6rfQw2RoeShx82CpMLIgt7YTwGIOy70SbJqiw/exec
 
 node "%~dp0disapprovals.js"
-pause
+if "%SCHEDULED%"=="" pause

@@ -248,16 +248,16 @@ async function ensureMCID(page) {
 /* =========================
    postInside – fetch inside page so cookies/origin apply
    ========================= */
-async function postInside(page, url, body, headers, credOpt) {
+async function postInside(page, url, body, headers, credOpt, timeoutMs) {
   if (!page || page.isClosed()) {
     return { status: -1, text: "Page is closed", json: null };
   }
 
   try {
     return await page.evaluate(
-      async ({ url, body, headers, credOpt }) => {
+      async ({ url, body, headers, credOpt, timeoutMs }) => {
         try {
-          const r = await fetch(url, {
+          const fetchOpts = {
             method: "POST",
             headers: Object.assign(
               {
@@ -270,7 +270,13 @@ async function postInside(page, url, body, headers, credOpt) {
             body: JSON.stringify(body),
             credentials: credOpt || "include",
             referrerPolicy: "no-referrer-when-downgrade",
-          });
+          };
+          if (timeoutMs) {
+            const ac = new AbortController();
+            setTimeout(() => ac.abort(), timeoutMs);
+            fetchOpts.signal = ac.signal;
+          }
+          const r = await fetch(url, fetchOpts);
           const text = await r.text();
           let json = null;
           try { json = JSON.parse(text); } catch {}
@@ -279,7 +285,7 @@ async function postInside(page, url, body, headers, credOpt) {
           return { status: -1, text: String(e), json: null };
         }
       },
-      { url, body, headers, credOpt }
+      { url, body, headers, credOpt, timeoutMs }
     );
   } catch (e) {
     console.log("postInside outer error:", e?.message || String(e));
@@ -1118,22 +1124,38 @@ function rowsToCsv(rows) {
     VERSION = cc.version;
     await clickModalOk(poll, { timeoutMs: 4000 });
 
-    // b) getSearchEngineDisapprovals from ADV page
-    //    Body matches the exact format from the original cURL:
-    //    { currentClientId, currentLoginName, version, data: { clientId } }
-    const disRes = await postInside(advPage, GET_DISAPPROVALS_URL, {
-      currentClientId: client.id,
-      currentLoginName: EMAIL,
-      version: VERSION,
-      data: { clientId: client.id },
-    });
+    // b) getSearchEngineDisapprovals from ADV page (with retry on transient failures)
+    let disRes = null;
+    for (let apiAttempt = 1; apiAttempt <= 3; apiAttempt++) {
+      if (apiAttempt > 1) {
+        console.log(`  Refreshing advPage before retry…`);
+        try {
+          await advPage.goto(ADV_HOME, { waitUntil: "domcontentloaded", timeout: 60000 }).catch(() => {});
+        } catch {}
+        await sleep(2000);
+      }
 
-    const shortRes = (disRes.text || "").slice(0, 400);
-    console.log(`getSearchEngineDisapprovals [${client.id}]: status=${disRes.status}`);
-    console.log(`  Response preview: ${shortRes}`);
-    await snap(advPage, `disapprovals_${client.id}_${disRes.status}`);
+      disRes = await postInside(advPage, GET_DISAPPROVALS_URL, {
+        currentClientId: client.id,
+        currentLoginName: EMAIL,
+        version: VERSION,
+        data: { clientId: client.id },
+      }, null, null, 600000);
+
+      const shortRes = (disRes.text || "").slice(0, 400);
+      console.log(`getSearchEngineDisapprovals [${client.id}] attempt ${apiAttempt}: status=${disRes.status}`);
+      console.log(`  Response preview: ${shortRes}`);
+      await snap(advPage, `disapprovals_${client.id}_${disRes.status}_attempt${apiAttempt}`);
+
+      if (disRes.status === -1) {
+        console.log(`  Transient fetch error, will retry…`);
+        continue;
+      }
+      break;
+    }
 
     if (disRes.status !== 200 || !disRes.json) {
+      const shortRes = (disRes.text || "").slice(0, 400);
       console.error(`API error for ${client.id}: ${disRes.status} ${shortRes}`);
       summaryRows.push({ client: client.name, fetched: false, saved: false, sheetUrl: "", moved: false });
       continue;

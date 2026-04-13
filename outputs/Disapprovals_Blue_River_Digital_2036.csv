@@ -1,34 +1,40 @@
 ID,Campaign ID,Engine,Type,Policy Violation,Reason,Reason Type,Text,Synchronous Disapproval?,Exemptible?,Runnable?,Disapproved On,Last Updated By,Last Updated On,Valid?,Resolution?,% Fulfilled,% Time Used,Campaign Status
-46640641,2664823,GOOGLE,Ad,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/03 09:09:51,Preethikrishnan Last,2026/02/06 00:40:27,Invalid,Delegated,85.57%,84.59%,active
-46640642,2664823,GOOGLE,Ad,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/03 09:09:51,Preethikrishnan Last,2026/02/06 00:40:27,Invalid,Delegated,85.57%,84.59%,active
-46640643,2664823,GOOGLE,Ad,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/03 09:09:51,Preethikrishnan Last,2026/02/06 00:40:27,Invalid,Delegated,85.57%,84.59%,active
-46640644,2664823,GOOGLE,Ad,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/03 09:09:51,Preethikrishnan Last,2026/02/06 00:40:27,Invalid,Delegated,85.57%,84.59%,active
-46640645,2664823,GOOGLE,Ad,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/03 09:09:51,Preethikrishnan Last,2026/02/06 00:40:27,Invalid,Delegated,85.57%,84.59%,active
-46640646,2664823,GOOGLE,Ad,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/03 09:09:51,Preethikrishnan Last,2026/02/06 00:40:27,Invalid,Delegated,85.57%,84.59%,active
-46867776,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:25:53,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867831,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:27:03,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46883197,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/17 14:25:52,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867777,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:25:53,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867832,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:27:03,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46883198,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/17 14:25:52,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867778,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:25:53,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867833,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:27:03,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46883199,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/17 14:25:52,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867779,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:25:53,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867834,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:27:03,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46883200,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/17 14:25:52,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867780,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:25:53,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46867835,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/16 15:27:03,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46884311,2660307,GOOGLE,Ad,GUNS,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/17 14:25:52,Preethikrishnan Last,2026/02/17 22:50:32,Valid,Will Not Fix,75.32%,76.41%,active
-46312746,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:38:08,System  ,,Undetermined,None,83.61%,83.04%,active
-46312744,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:32:49,System  ,,Undetermined,None,83.61%,83.04%,active
-46312743,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:32:29,System  ,,Undetermined,None,83.61%,83.04%,active
-46312745,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:35:20,System  ,,Undetermined,None,83.61%,83.04%,active
-46312747,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:38:08,System  ,,Undetermined,None,83.61%,83.04%,active
-46312742,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:28:21,System  ,,Undetermined,None,83.61%,83.04%,active
-47029131,2673789,GOOGLE,Keyword,PERSONAL_LOANS,Personal loans - Required disclosure must be prominently mentioned on your ad's destination site.,,,No,Yes,Yes,2026/02/26 10:25:15,System  ,,Undetermined,None,47.82%,43.75%,active
-47198988,2270233,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/08 20:16:43,System  ,,Undetermined,None,0.21%,0.81%,active
-37528242,2346199,GOOGLE,Keyword,ALCOHOL_SALE,Alcohol sale - Ads promoting content where alcohol can be purchased on the destination site or app are only allowed in certain countries and in certain ad formats.,,,No,Yes,No,2025/02/06 11:15:42,System  ,,Undetermined,None,0.00%,16.94%,inactive
-37528243,2346199,GOOGLE,Keyword,ALCOHOL_SALE,Alcohol sale - Ads promoting content where alcohol can be purchased on the destination site or app are only allowed in certain countries and in certain ad formats.,,,No,Yes,No,2025/02/06 11:15:42,System  ,,Undetermined,None,0.00%,16.94%,inactive
-46806707,2055063,GOOGLE,Ad,RESTRICTED_HOUSING,Violating Text: ,AREA_OF_INTEREST_ONLY,,No,No,Yes,2026/02/12 21:07:12,Preethikrishnan Last,2026/02/16 23:28:55,Valid,Will Not Fix,15.09%,13.71%,active
-47020845,2673387,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/02/26 08:52:09,Rubiga G,2026/03/03 23:59:57,Valid,Will Not Fix,37.93%,47.32%,active
+47395200,2053288,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/22 12:48:37,Praveenkumar C,2026/03/24 07:02:13,Valid,Will Not Fix,55.45%,58.47%,active
+47395207,2053288,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/22 12:49:44,Praveenkumar C,2026/03/24 07:02:13,Valid,Will Not Fix,55.45%,58.47%,active
+47395208,2053288,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/22 12:50:45,Praveenkumar C,2026/03/24 07:02:13,Valid,Will Not Fix,55.45%,58.47%,active
+47395237,2053288,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/22 12:49:16,Praveenkumar C,2026/03/24 07:02:13,Valid,Will Not Fix,55.45%,58.47%,active
+47395238,2053288,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/22 12:50:19,Praveenkumar C,2026/03/24 07:02:13,Valid,Will Not Fix,55.45%,58.47%,active
+47448776,2053288,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/24 07:00:08,Praveenkumar C,2026/03/24 07:02:13,Valid,Will Not Fix,55.45%,58.47%,active
+46312746,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:38:08,System  ,,Undetermined,None,82.59%,81.05%,active
+46312744,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:32:49,System  ,,Undetermined,None,82.59%,81.05%,active
+46312743,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:32:29,System  ,,Undetermined,None,82.59%,81.05%,active
+46312745,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:35:20,System  ,,Undetermined,None,82.59%,81.05%,active
+46312747,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:38:08,System  ,,Undetermined,None,82.59%,81.05%,active
+46312742,2657543,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/01/15 18:28:21,System  ,,Undetermined,None,82.59%,81.05%,active
+37528242,2346199,GOOGLE,Keyword,ALCOHOL_SALE,Alcohol sale - Ads promoting content where alcohol can be purchased on the destination site or app are only allowed in certain countries and in certain ad formats.,,,No,Yes,No,2025/02/06 11:15:42,System  ,,Undetermined,None,0.00%,13.75%,inactive
+37528243,2346199,GOOGLE,Keyword,ALCOHOL_SALE,Alcohol sale - Ads promoting content where alcohol can be purchased on the destination site or app are only allowed in certain countries and in certain ad formats.,,,No,Yes,No,2025/02/06 11:15:42,System  ,,Undetermined,None,0.00%,13.75%,inactive
+46806707,2055063,GOOGLE,Ad,RESTRICTED_HOUSING,Violating Text: ,AREA_OF_INTEREST_ONLY,,No,No,Yes,2026/02/12 21:07:12,Preethikrishnan Last,2026/02/16 23:28:55,Valid,Will Not Fix,11.26%,10.42%,active
+44560951,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/29 14:00:29,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+44603208,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/31 06:04:09,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+44603210,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/31 06:09:25,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+44603942,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/31 06:14:15,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+44603944,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/31 06:58:24,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45446818,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/01 08:53:58,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45447055,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/01 08:58:11,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45457364,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/01 10:23:52,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+46693561,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/06 06:05:19,Preethikrishnan Last,2026/02/10 00:39:20,Valid,Will Not Fix,28.61%,30.42%,active
+44560952,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/29 14:00:29,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+44603209,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/31 06:04:09,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+44603941,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/31 06:09:25,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+44603943,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/31 06:14:15,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+44603945,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/10/31 06:58:24,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45446819,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/01 08:53:58,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45447056,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/01 08:58:11,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45457365,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/01 10:23:52,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+46693562,2049885,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/02/06 06:05:19,Preethikrishnan Last,2026/02/10 00:39:20,Valid,Will Not Fix,28.61%,30.42%,active
+45447054,2049885,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2025/12/01 08:57:40,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45447053,2049885,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2025/12/01 08:57:40,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45446817,2049885,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2025/12/01 08:52:06,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+45446807,2049885,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2025/12/01 09:02:04,Theeba R,2025/12/01 21:33:14,Valid,Will Not Fix,28.61%,30.42%,active
+47448385,2681737,GOOGLE,Keyword,PERSONAL_LOANS,Personal loans - Required disclosure must be prominently mentioned on your ad's destination site.,,,No,Yes,Yes,2026/03/24 06:33:46,System  ,,Undetermined,None,52.26%,52.02%,active
+47020845,2673387,GOOGLE,Ad,IMAGE_ERROR,The image is not of legal dimensions.,,,No,No,Yes,2026/02/26 08:52:09,Rubiga G,2026/03/03 23:59:57,Valid,Will Not Fix,46.83%,48.79%,active
