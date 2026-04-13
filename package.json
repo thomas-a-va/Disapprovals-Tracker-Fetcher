@@ -1,8 +1,8 @@
 {
-  "name": "ppr-reports-fetching",
+  "name": "disapprovals-tracker-fetcher",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Fetch search engine disapprovals per client from Advantage and export to CSV",
+  "main": "disapprovals.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "googleapis": "^171.4.0",
     "puppeteer": "^24.29.1"
   }
 }

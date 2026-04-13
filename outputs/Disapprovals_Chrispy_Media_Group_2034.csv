@@ -1,0 +1,43 @@
+ID,Campaign ID,Engine,Type,Policy Violation,Reason,Reason Type,Text,Synchronous Disapproval?,Exemptible?,Runnable?,Disapproved On,Last Updated By,Last Updated On,Valid?,Resolution?,% Fulfilled,% Time Used,Campaign Status
+44934980,2058271,GOOGLE,Keyword,MUTATE_ERROR,Resource was not found.,,,No,No,Yes,2025/11/12 10:22:17,Preethikrishnan Last,2025/11/17 03:54:53,Valid,Will Not Fix,32.45%,33.06%,active
+33057640,2079828,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2024/07/06 23:17:21,Mahalakshmi S,2024/10/09 06:11:24,Invalid,Delegated,35.02%,33.47%,active
+33057641,2079828,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2024/07/06 23:17:21,Mahalakshmi S,2024/10/09 06:11:24,Invalid,Delegated,35.02%,33.47%,active
+45563146,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563147,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563148,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563149,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563150,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563151,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563152,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563153,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563154,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563155,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563156,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563157,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563158,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563159,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563160,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563161,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563162,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563163,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563164,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563165,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563166,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563167,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563168,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563169,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563170,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563171,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563172,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563173,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563174,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+45563145,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,31.63%,33.47%,active
+35003781,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,31.63%,33.47%,active
+34995116,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,31.63%,33.47%,active
+34995120,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,31.63%,33.47%,active
+34995117,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,31.63%,33.47%,active
+34995119,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,31.63%,33.47%,active
+34995118,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,31.63%,33.47%,active
+42077177,2560755,GOOGLE,Keyword,HEALTH_IN_PERSONALIZED_ADS,"Health in personalized advertising - Health condition-related services, procedures, or products aren't allowed in personalized advertising.",,,No,Yes,Yes,2025/07/11 15:00:26,Surendar S,2025/07/14 10:09:15,Valid,Will Not Fix,98.90%,518.75%,active
+42077176,2560755,GOOGLE,Keyword,HEALTH_IN_PERSONALIZED_ADS,"Health in personalized advertising - Health condition-related services, procedures, or products aren't allowed in personalized advertising.",,,No,Yes,Yes,2025/07/11 15:00:26,Surendar S,2025/07/14 10:09:15,Valid,Will Not Fix,98.90%,518.75%,active
+42077175,2560755,GOOGLE,Phone,ASSET_ERROR,Customer consent for call recording Terms of Service is required to use CallAsset.,,,No,No,Yes,2025/07/11 14:51:55,Surendar S,2025/07/14 10:09:15,Valid,Will Not Fix,98.90%,518.75%,active

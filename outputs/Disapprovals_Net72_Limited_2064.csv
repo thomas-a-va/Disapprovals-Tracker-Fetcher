@@ -1,0 +1,3 @@
+ID,Campaign ID,Engine,Type,Policy Violation,Reason,Reason Type,Text,Synchronous Disapproval?,Exemptible?,Runnable?,Disapproved On,Last Updated By,Last Updated On,Valid?,Resolution?,% Fulfilled,% Time Used,Campaign Status
+45297482,2627326,GOOGLE,Segment,MUTATE_ERROR,Mutates are not allowed for the requested resource.,,,No,No,Yes,2025/11/24 13:42:12,Preethikrishnan Last,2025/12/01 09:09:48,Valid,Will Not Fix,98.73%,156.59%,active
+46026535,2627326,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/30 04:55:13,System  ,,Undetermined,None,98.73%,156.59%,active
