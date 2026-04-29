@@ -11,7 +11,7 @@ set AR_SNAP_MODE=none
 
 rem Apps Script webhook URL – creates sheets and moves them to shared drive.
 rem Leave empty to skip Google Sheets export (CSV-only mode).
-set AR_APPS_SCRIPT_URL=https://script.google.com/a/macros/yourdigitalagents.com/s/AKfycbzwRatwmtUt9kxF-9Xci0bQqHQoepylr6rfQw2RoeShx82CpMLIgt7YTwGIOy70SbJqiw/exec
+set AR_APPS_SCRIPT_URL=https://script.google.com/macros/s/AKfycbx28xfEu3-B1VoenBOJaMP1gQ115QdUqq5jVQK9XNZ1nsT4buufBtQkpeqXsVKbl_tJ/exec
 
 node "%~dp0disapprovals.js"
 if "%SCHEDULED%"=="" pause

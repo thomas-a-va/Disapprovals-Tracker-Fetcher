@@ -1,1 +1,4 @@
-[object Object]
+Error: The browser is already running for C:\PPRChrome. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\thomasa\OneDrive\Desktop\Automations\Disapprovals Tracker Fetcher\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:174:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async C:\Users\thomasa\OneDrive\Desktop\Automations\Disapprovals Tracker Fetcher\disapprovals.js:1038:19

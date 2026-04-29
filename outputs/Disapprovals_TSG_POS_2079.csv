@@ -1,1 +1,2 @@
-No disapprovals found
+ID,Campaign ID,Engine,Type,Policy Violation,Reason,Reason Type,Text,Synchronous Disapproval?,Exemptible?,Runnable?,Disapproved On,Last Updated By,Last Updated On,Valid?,Resolution?,% Fulfilled,% Time Used,Campaign Status
+47270854,2675116,GOOGLE,Phone,ASSET_ERROR,Customer consent for call recording Terms of Service is required to use CallAsset.,,,No,No,Yes,2026/03/13 07:22:53,System  ,,Undetermined,None,28.09%,27.78%,active

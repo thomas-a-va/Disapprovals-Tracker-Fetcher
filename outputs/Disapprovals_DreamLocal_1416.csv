@@ -1,11 +1,11 @@
 ID,Campaign ID,Engine,Type,Policy Violation,Reason,Reason Type,Text,Synchronous Disapproval?,Exemptible?,Runnable?,Disapproved On,Last Updated By,Last Updated On,Valid?,Resolution?,% Fulfilled,% Time Used,Campaign Status
-42182072,2053318,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,Benefits,No,No,Yes,2025/07/14 20:21:23,System  ,,Undetermined,None,30.40%,30.42%,
-42182074,2053318,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,Architectural Modeling,No,No,Yes,2025/07/14 20:21:23,System  ,,Undetermined,None,30.40%,30.42%,
-44615310,2153058,GOOGLE,Callout,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/10/31 12:45:49,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,129.44%,inactive
-44793853,2153058,GOOGLE,Callout,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/11/06 20:34:59,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,129.44%,inactive
-44793854,2153058,GOOGLE,Callout,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/11/06 20:34:59,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,129.44%,inactive
-44805209,2153058,GOOGLE,Callout,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/11/07 12:31:45,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,129.44%,inactive
-45366440,2153058,GOOGLE,Ad,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/11/26 19:58:43,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,129.44%,inactive
-45481784,2153058,GOOGLE,Ad,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/12/02 19:30:07,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,129.44%,inactive
-46045412,2153058,GOOGLE,Ad,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/12/31 01:34:24,System  ,,Undetermined,None,99.85%,129.44%,inactive
-38586046,2396527,GOOGLE,Phone,ASSET_ERROR,Customer consent for call recording Terms of Service is required to use CallAsset.,,,No,No,Yes,2025/03/14 05:58:29,Theeba R,2025/06/16 05:49:35,Valid,Will Not Fix,31.86%,30.42%,active
+42182072,2053318,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,Benefits,No,No,Yes,2025/07/14 20:21:23,System  ,,Undetermined,None,73.08%,70.83%,
+42182074,2053318,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,Architectural Modeling,No,No,Yes,2025/07/14 20:21:23,System  ,,Undetermined,None,73.08%,70.83%,
+44615310,2153058,GOOGLE,Callout,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/10/31 12:45:49,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,168.55%,inactive
+44793853,2153058,GOOGLE,Callout,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/11/06 20:34:59,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,168.55%,inactive
+44793854,2153058,GOOGLE,Callout,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/11/06 20:34:59,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,168.55%,inactive
+44805209,2153058,GOOGLE,Callout,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/11/07 12:31:45,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,168.55%,inactive
+45366440,2153058,GOOGLE,Ad,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/11/26 19:58:43,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,168.55%,inactive
+45481784,2153058,GOOGLE,Ad,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/12/02 19:30:07,Preethikrishnan Last,2025/12/04 05:04:10,Valid,Will Not Fix,99.85%,168.55%,inactive
+46045412,2153058,GOOGLE,Ad,PRESCRIPTION_DRUG_SALE,Violating Text: ,FULLY_LIMITED,,No,No,No,2025/12/31 01:34:24,System  ,,Undetermined,None,99.85%,168.55%,inactive
+38586046,2396527,GOOGLE,Phone,ASSET_ERROR,Customer consent for call recording Terms of Service is required to use CallAsset.,,,No,No,Yes,2025/03/14 05:58:29,Theeba R,2025/06/16 05:49:35,Valid,Will Not Fix,74.80%,70.83%,active

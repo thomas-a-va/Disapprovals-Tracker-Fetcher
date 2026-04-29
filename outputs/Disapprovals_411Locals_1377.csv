@@ -1,27 +1,26 @@
 ID,Campaign ID,Engine,Type,Policy Violation,Reason,Reason Type,Text,Synchronous Disapproval?,Exemptible?,Runnable?,Disapproved On,Last Updated By,Last Updated On,Valid?,Resolution?,% Fulfilled,% Time Used,Campaign Status
-47303637,1748550,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,(408) 471-2605,No,No,Yes,2026/03/14 20:37:15,System  ,,Undetermined,None,0.00%,100.40%,
-44239696,1705607,GOOGLE,Ad,AD_ERROR,"The ad is not associated with any enabled AdGroupAd, and cannot be updated.",,,No,No,Yes,2025/10/16 06:00:20,System  ,2026/02/16 23:01:37,Undetermined,None,98.13%,193.30%,
-47218600,1733916,GOOGLE,Ad,POLICY_FINDING_ERROR,The resource has been disapproved since the policy summary includes policy topics of type PROHIBITED.,,,No,No,Yes,2026/03/10 09:42:39,System  ,2026/04/09 08:56:20,Undetermined,None,79.84%,90.73%,
-47681924,1733916,GOOGLE,Ad,POLICY_FINDING_ERROR,The resource has been disapproved since the policy summary includes policy topics of type PROHIBITED.,,,No,No,Yes,2026/04/09 08:56:20,System  ,,Undetermined,None,79.84%,90.73%,
-43750613,1739939,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/09/25 06:36:08,System  ,,Undetermined,None,57.00%,55.24%,active
-43783184,1739939,GOOGLE,Ad,ONE_WEBSITE_PER_AD_GROUP,Violating Text: ,PROHIBITED,,No,No,Yes,2025/09/25 21:30:54,System  ,2025/09/26 20:45:33,Undetermined,None,57.00%,55.24%,active
-44681241,1739939,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2025/11/02 21:53:18,System  ,,Undetermined,None,57.00%,55.24%,active
-44681242,1739939,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2025/11/02 21:53:18,System  ,,Undetermined,None,57.00%,55.24%,active
-44681240,1929766,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/11/02 21:53:18,System  ,,Undetermined,None,17.69%,71.37%,active
-47495580,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,49.17%,45.56%,active
-47495581,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,49.17%,45.56%,active
-47495582,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,49.17%,45.56%,active
-47495583,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,49.17%,45.56%,active
-47495584,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,49.17%,45.56%,active
-47495585,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,49.17%,45.56%,active
-47495586,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,49.17%,45.56%,active
-47567797,1944664,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/31 19:56:41,System  ,,Undetermined,None,49.17%,45.56%,active
-33626723,1694956,GOOGLE,Ad,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2024/08/18 23:27:37,Mahalakshmi S,2024/08/21 23:31:23,Invalid,Delegated,29.68%,27.08%,active
-41484380,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,29.68%,27.08%,active
-41485081,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,29.68%,27.08%,active
-41485082,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,29.68%,27.08%,active
-41485083,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,29.68%,27.08%,active
-41485084,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,29.68%,27.08%,active
-41485085,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,29.68%,27.08%,active
-41485086,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,29.68%,27.08%,active
-41485087,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,29.68%,27.08%,active
+47303637,1748550,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,(408) 471-2605,No,No,No,2026/03/14 20:37:15,System  ,,Undetermined,None,100.90%,94.02%,
+47218600,1733916,GOOGLE,Ad,POLICY_FINDING_ERROR,The resource has been disapproved since the policy summary includes policy topics of type PROHIBITED.,,,No,No,Yes,2026/03/10 09:42:39,System  ,2026/04/09 08:56:20,Undetermined,None,23.64%,30.83%,
+47681924,1733916,GOOGLE,Ad,POLICY_FINDING_ERROR,The resource has been disapproved since the policy summary includes policy topics of type PROHIBITED.,,,No,No,Yes,2026/04/09 08:56:20,Rubiga G,2026/04/13 01:32:37,Undetermined,Delegated,23.64%,30.83%,
+43750613,1739939,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/09/25 06:36:08,System  ,,Undetermined,None,96.68%,94.35%,active
+43783184,1739939,GOOGLE,Ad,ONE_WEBSITE_PER_AD_GROUP,Violating Text: ,PROHIBITED,,No,No,Yes,2025/09/25 21:30:54,System  ,2025/09/26 20:45:33,Undetermined,None,96.68%,94.35%,active
+44681241,1739939,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2025/11/02 21:53:18,System  ,,Undetermined,None,96.68%,94.35%,active
+44681242,1739939,GOOGLE,Callout,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2025/11/02 21:53:18,System  ,,Undetermined,None,96.68%,94.35%,active
+44681240,1929766,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/11/02 21:53:18,System  ,,Undetermined,None,13.11%,10.83%,active
+47495580,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,87.48%,84.68%,active
+47495581,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,87.48%,84.68%,active
+47495582,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,87.48%,84.68%,active
+47495583,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,87.48%,84.68%,active
+47495584,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,87.48%,84.68%,active
+47495585,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,87.48%,84.68%,active
+47495586,1944664,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/26 21:04:00,System  ,,Undetermined,None,87.48%,84.68%,active
+47567797,1944664,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/03/31 19:56:41,System  ,,Undetermined,None,87.48%,84.68%,active
+33626723,1694956,GOOGLE,Ad,DESTINATION_NOT_WORKING,Violating Text: ,PROHIBITED,,No,No,Yes,2024/08/18 23:27:37,Mahalakshmi S,2024/08/21 23:31:23,Invalid,Delegated,68.10%,67.50%,active
+41484380,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,68.10%,67.50%,active
+41485081,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,68.10%,67.50%,active
+41485082,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,68.10%,67.50%,active
+41485083,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,68.10%,67.50%,active
+41485084,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,68.10%,67.50%,active
+41485085,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,68.10%,67.50%,active
+41485086,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,68.10%,67.50%,active
+41485087,1694956,GOOGLE,Ad,AD_ERROR,Call Ad verification url and final url don't have same domain.,,,No,No,Yes,2025/06/17 06:53:52,Surendar S,2025/09/09 07:26:59,Valid,Will Not Fix,68.10%,67.50%,active

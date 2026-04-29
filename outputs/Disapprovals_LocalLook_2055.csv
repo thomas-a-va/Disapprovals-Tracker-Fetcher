@@ -1,4 +1,4 @@
 ID,Campaign ID,Engine,Type,Policy Violation,Reason,Reason Type,Text,Synchronous Disapproval?,Exemptible?,Runnable?,Disapproved On,Last Updated By,Last Updated On,Valid?,Resolution?,% Fulfilled,% Time Used,Campaign Status
-47660482,2439563,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/04/07 15:29:47,System  ,,Undetermined,None,32.68%,30.42%,active
-47660483,2439563,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/04/07 15:29:47,System  ,,Undetermined,None,32.68%,30.42%,active
-47660484,2439563,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/04/07 15:29:47,System  ,,Undetermined,None,32.68%,30.42%,active
+47660482,2439563,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/04/07 15:29:47,Rubiga G,2026/04/13 00:04:11,Invalid,None,75.04%,70.83%,active
+47660483,2439563,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/04/07 15:29:47,Rubiga G,2026/04/13 00:04:11,Invalid,None,75.04%,70.83%,active
+47660484,2439563,GOOGLE,Ad,IMAGE_QUALITY,Violating Text: ,PROHIBITED,,No,No,Yes,2026/04/07 15:29:47,Rubiga G,2026/04/13 00:04:11,Invalid,None,75.04%,70.83%,active

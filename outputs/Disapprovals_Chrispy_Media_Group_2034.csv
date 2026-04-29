@@ -1,288 +1,40 @@
 ID,Campaign ID,Engine,Type,Policy Violation,Reason,Reason Type,Text,Synchronous Disapproval?,Exemptible?,Runnable?,Disapproved On,Last Updated By,Last Updated On,Valid?,Resolution?,% Fulfilled,% Time Used,Campaign Status
-44934980,2058271,GOOGLE,Keyword,MUTATE_ERROR,Resource was not found.,,,No,No,Yes,2025/11/12 10:22:17,Preethikrishnan Last,2025/11/17 03:54:53,Valid,Will Not Fix,29.19%,30.42%,active
-33057640,2079828,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2024/07/06 23:17:21,Mahalakshmi S,2024/10/09 06:11:24,Invalid,Delegated,30.95%,30.83%,active
-33057641,2079828,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2024/07/06 23:17:21,Mahalakshmi S,2024/10/09 06:11:24,Invalid,Delegated,30.95%,30.83%,active
-34995116,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,27.60%,30.83%,active
-34995117,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,27.60%,30.83%,active
-34995118,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,27.60%,30.83%,active
-34995119,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,27.60%,30.83%,active
-34995120,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,27.60%,30.83%,active
-35003781,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,27.60%,30.83%,active
-45563145,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563146,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563147,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563148,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563149,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563150,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563151,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563152,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563153,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563154,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563155,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563156,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563157,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563158,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563159,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563160,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563161,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563162,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563163,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563164,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563165,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563166,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563167,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563168,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563169,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563170,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563171,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563172,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563173,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-45563174,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,27.60%,30.83%,active
-47646403,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47646404,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47646405,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47646406,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47646407,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47646408,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47646409,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47646410,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653831,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653832,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653833,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653834,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653835,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653836,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653837,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653838,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653839,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653840,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653841,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653842,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653843,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653844,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653845,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653846,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653847,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653848,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653849,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653850,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653851,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653852,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653853,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653854,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653855,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653856,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653857,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653858,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653859,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653860,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653861,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653862,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653863,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653864,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653865,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653866,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653867,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653868,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653869,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653870,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653871,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653872,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653873,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653874,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653875,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653876,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653877,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653878,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653879,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653880,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653881,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653882,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653883,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653884,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653885,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653886,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653887,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653888,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653889,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653890,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653891,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653892,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653893,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653894,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653895,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653896,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653897,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653898,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653899,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653900,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653901,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653902,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653903,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653904,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653905,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653906,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653907,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653908,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653909,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653910,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653911,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653912,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653913,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653914,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653915,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653916,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653917,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653918,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653919,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653920,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653921,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653922,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653923,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653924,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653925,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653926,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653927,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653928,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653929,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653930,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653931,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653932,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653933,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653934,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653935,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653936,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653937,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653938,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653939,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653940,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653941,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653942,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653943,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653944,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653945,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653946,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653947,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653948,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653949,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653950,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653951,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653952,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653953,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653954,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653955,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653956,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653957,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653958,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653959,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653960,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653961,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653962,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653963,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653964,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653965,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653966,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653967,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653968,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653969,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653970,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653971,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653972,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653973,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653974,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653975,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653976,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653977,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653978,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653979,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653980,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653981,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653982,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653983,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653984,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653985,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653986,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653987,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653988,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653989,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653990,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653991,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653992,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653993,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653994,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653995,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653996,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653997,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653998,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47653999,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654000,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654001,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654002,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654003,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654004,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654005,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654006,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654007,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654008,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654009,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654010,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654011,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654012,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654013,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654014,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654015,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654016,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654017,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654018,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654019,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654020,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654021,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654022,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654023,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654024,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654025,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654026,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654027,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654028,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654029,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654030,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654031,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654032,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654033,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654034,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654035,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654036,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654037,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654038,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654039,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654040,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654041,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654042,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654043,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654044,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654045,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654046,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654047,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654048,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654049,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654050,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654051,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654052,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654053,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654054,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654055,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654056,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654057,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654058,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654059,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654060,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654061,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654062,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654063,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654064,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654065,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654066,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654067,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654068,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654069,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
-47654070,2685082,GOOGLE,Keyword,INTERNAL_ERROR,An internal error has occurred.,,,No,No,Yes,2026/04/07 04:45:18,System  ,,Undetermined,None,15.66%,13.54%,active
+44934980,2058271,GOOGLE,Keyword,MUTATE_ERROR,Resource was not found.,,,No,No,Yes,2025/11/12 10:22:17,Preethikrishnan Last,2025/11/17 03:54:53,Valid,Will Not Fix,70.02%,70.83%,active
+33057641,2079828,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2024/07/06 23:17:21,Mahalakshmi S,2024/10/09 06:11:24,Invalid,Delegated,71.74%,71.25%,active
+47862353,2079828,GOOGLE,Phone,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2026/04/21 23:04:08,System  ,,Undetermined,None,71.74%,71.25%,active
+45563146,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563147,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563148,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563149,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563150,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563151,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563152,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563153,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563154,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563155,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563156,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563157,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563158,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563159,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563160,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563161,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563162,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563163,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563164,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563165,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563166,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563167,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563168,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563169,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563170,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563171,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563172,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563173,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563174,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+45563145,2165496,GOOGLE,Ad,UNVERIFIED_PHONE_NUMBER,Violating Text: ,PROHIBITED,,No,No,Yes,2025/12/06 23:50:30,System  ,,Undetermined,None,71.64%,71.25%,active
+35003781,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,71.64%,71.25%,active
+34995116,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,71.64%,71.25%,active
+34995120,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,71.64%,71.25%,active
+34995117,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,71.64%,71.25%,active
+34995119,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,71.64%,71.25%,active
+34995118,2165496,GOOGLE,Keyword,FIELD_ERROR,The field attempted to be mutated is immutable.,,,No,No,Yes,2024/10/22 22:06:57,Sivasri Durai,2024/11/14 04:50:59,Valid,Will Not Fix,71.64%,71.25%,active
