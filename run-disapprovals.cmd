@@ -1,6 +1,6 @@
 @echo off
-set AR_EMAIL=thomasa@yourdigitalagents.com
-set AR_PASSWORD=ThomasADas3081
+set AR_EMAIL=
+set AR_PASSWORD=
 set AR_CHROME_PROFILE=C:\PPRChrome
 rem Session client (logged-in "default" context). Omit to use first client in clients.csv.
 set AR_CURRENT_CLIENT_ID=2034
